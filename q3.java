@@ -1,4 +1,4 @@
-class q3 {
+
     public static void main(String[] args) {
         int decimal = 254;
         String hex = "";
