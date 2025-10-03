@@ -1,4 +1,4 @@
-
+public class DecimalToHexadecimal {
     public static void main(String[] args) {
         int decimal = 254;
         String hex = "";
