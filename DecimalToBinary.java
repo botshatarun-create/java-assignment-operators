@@ -1,4 +1,4 @@
-class DecimalToBinary {
+// ...existing code...
     public static void main(String[] args) {
         int decimal = 56;
         String binary = "";
